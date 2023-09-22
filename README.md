@@ -22,3 +22,9 @@ Rating: TV Rating of the movie/show
 Duration: Total Duration - in minutes or number of seasons
 Listed_in: Genre
 Description: The summary description
+
+## Process
+1. Preparing the data involves tasks such as replacing missing values with approximations, eliminating low-quality data, and extracting and organizing multiple pieces of information separated by commas.
+2. Exploratory Data analysis - Understanding the basic metrics of the data, such as the range of values, key features, and separation of numerical and group columns.
+3. Non-Graphical Analysis: Value counts and unique attributes.
+4. Visual Analysis - Univariate, Bivariate after pre-processing of the data, Distplot, count plot, histogram for univariate analysis, Boxplot, Heatmaps, Pairplots
