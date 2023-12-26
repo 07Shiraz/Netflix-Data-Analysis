@@ -31,10 +31,13 @@ Description: The summary description
 
 ## Final Recommendations
 1. Netflix has to focus on TV Shows also because there are people who like to see TV shows rather than movies.
-2. By approaching the top director we can plan some more movies/TV shows in order to increase the popularity.
-3. Not only reaching top directors we can also see the directors with fewer no of movies and having high ratings as there may be some financial issues or anything in order to get good content netflix can reach them and Netflix can produce the movie and give the director a chance.
+2. By approaching the top director we can plan some more movies/TV shows to increase the popularity.
+3. Not only reaching top directors we can also see the directors with fewer no of movies and having high ratings as there may be some financial issues or anything to get good content Netflix can reach them and Netflix can produce the movie and give the director a chance.
 4. We have seen most no of the international movie genre so need to give priority to other genres like horror, comedy..etc
 5. Over 69% of the Netflix catalog are movies - movies seem to be trending
 6. Data shows that over 2000 new content is uploaded on the 1st of every month, and over 600 during mid-month. Hence the recommended day to upload new content is the first of every month.
 7. Some movies can be released directly into OTT which has some positive talk that may help in improving subscriptions.
-8. Advertisement in the country which has very less movies released should be increased and attract people of that country by making their native TV Shows
+8. Advertisements in the country which has very less movies released should be increased and attract people of that country by making their native TV Shows
+
+## Check out the PDf below of the Case Study
+https://bitly.ws/37d97
